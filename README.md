@@ -86,4 +86,5 @@ python3 manage.py runserver
 Автор:
 ----------
 Рушан - tg @safa_ru
-[Safarrush роль (в роли Python-разработчика - разработчик 3)](https://github.com/Safarrush)
+
+[Safarrush](https://github.com/Safarrush)
